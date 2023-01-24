@@ -11,7 +11,7 @@
 <a href="https://github.com/InstincDev/Together-Admin-Dash/contributors">
   <img height="28px" src="https://img.shields.io/github/contributors/InstincDev/Together-Admin-Dash?color=88bc10&logo=github&logoColor=white" alt="Contributors"/>
 </a>
-<a href="https://github.com/Caleb-Cohen/Together/issues">
+<a href="https://github.com/InstincDev/Together-Admin-Dash/issues">
   <img height="28px" src="https://img.shields.io/github/issues/InstincDev/Together-Admin-Dash" alt="Issues"/>
 </a>
 </div>

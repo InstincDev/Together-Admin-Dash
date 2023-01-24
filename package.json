@@ -1,0 +1,33 @@
+{
+  "name": "together-admin-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InstincDev/test-dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InstincDev/test-dashboard/issues"
+  },
+  "homepage": "https://github.com/InstincDev/test-dashboard#readme",
+  "dependencies": {
+    "@adminjs/express": "^5.0.1",
+    "@adminjs/mongoose": "^3.0.1",
+    "adminjs": "^6.7.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-formidable": "^1.2.0",
+    "express-session": "^1.17.3",
+    "mongodb": "^3.6.5",
+    "mongoose": "^5.12.3",
+    "nodemon": "^2.0.7",
+    "tslib": "^2.4.1"
+  }
+}

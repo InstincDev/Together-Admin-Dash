@@ -36,7 +36,7 @@
   <br/>
   <a href="#">Project Wiki</a>
   ·
-  <a href=".github/CONTRIBUTING.md">Contributing guide</a>
+  <a href="https://github.com/InstincDev/Together-Admin-Dash/blob/master/.github/CONTRIBUTING.md">Contributing guide</a>
   ·
   <a href="#"><strong>Link to project</strong></a>
   ·

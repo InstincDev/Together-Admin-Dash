@@ -19,8 +19,7 @@
 <br>
 <br>
 <h1 align="center">
-  <a href="#">This is a Adminastrative dashboard tool built for the Together group app
-  </a>
+  <p>This is a Adminastrative dashboard tool built for the Together group app</p>
 </h1>
 <h1 align="center">
 

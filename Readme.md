@@ -135,12 +135,12 @@ You can also join the discussion in the [Together Discord channel](https://disco
 
 # 🛠️ Contributions
 
- ### Thanks go to these wonderful people for their contributions to <em>Together</em>:
+ ### Thanks go to these wonderful people for their contributions to the <em>Together Admin Dashboard</em>:
 
  <br>
 
 <div align="center"
-  <a href="https://github.com/Caleb-Cohen/Together/graphs/contributors">
+  <a href="https://github.com/InstincDev/Together-Admin-Dash/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=Caleb-Cohen/Together&max=100"/>
   </a> 
 </div>

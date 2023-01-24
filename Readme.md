@@ -36,7 +36,7 @@
   <br/>
   <a href="#">Project Wiki</a>
   ·
-  <a href="https://github.com/InstincDev/Together-Admin-Dash/blob/master/.github/CONTRIBUTING.md">Contributing guide</a>
+  <a href=".github/CONTRIBUTING.md">Contributing guide</a>
   ·
   <a href="#"><strong>Link to project</strong></a>
   ·
@@ -155,7 +155,7 @@ You can also join the discussion in the [Together Discord channel](https://disco
 <br>
 
 If you're interested in contributing, you may:
-* read our [Contributing guide](#✅-built-with);
+* read our [Contributing guide](.github/CONTRIBUTING.md);
 * join our [Discord channel](https://discord.com/channels/735923219315425401/1038482732633825442) within 100Devs to discuss your ideas;
 * Visit the [Issues tab](https://github.com/InstincDev/Together-Admin-Dash/issues) to request an issue or to open a new issue;
 * You can also convert a "draft todo" to an issue on the [MVP Tasks Project Board.](https://github.com/users/Caleb-Cohen/projects/1/views/1)

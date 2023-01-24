@@ -19,8 +19,7 @@
 <br>
 <br>
 <h1 align="center">
-  <a href="#">This is a Adminastrative dashboard tool built for the Together group app 
-    <img src="#" alt="#" width="140">
+  <a href="#">This is a Adminastrative dashboard tool built for the Together group app
   </a>
 </h1>
 <h1 align="center">
@@ -68,7 +67,7 @@
 
   </details>
     </td>
-    <td valign="top" style="width:70%"><img src="#" alt="#"/></td>
+    <td valign="top" style="width:70%"></td>
   </tr>
 </table>
 </div>
@@ -77,9 +76,7 @@
 <br/>
 <br/>
 
-<div align='center'>
-  <img src="docs/images/divider.png">
-</div>
+
 
 # 📢 About
 
@@ -87,13 +84,8 @@ Together Admin Dashboard is an administrative tool designed for the 100devs Toge
 
 <br/>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/75268174/206335415-9b8ae4a7-806b-4771-a853-66a9f6789e40.png">
-</p>
 
-<div align='center'>
-  <img src="docs/images/divider.png">
-</div>
+
 
 ## ✅ Built With
 
@@ -120,9 +112,6 @@ Together Admin Dashboard is an administrative tool designed for the 100devs Toge
 
 
 <br>
-<div align='center'>
-  <img src="docs/images/divider.png">
-</div>
 
 # 🚀 Getting Started
 ## 💻 Install
@@ -144,9 +133,6 @@ You can also join the discussion in the [Together Discord channel](https://disco
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<div align='center'>
-  <img src="docs/images/divider.png">
-</div>
 
 # 🛠️ Contributions
 
@@ -175,13 +161,4 @@ If you're interested in contributing, you may:
 * Visit the [Issues tab](https://github.com/InstincDev/Together-Admin-Dash/issues) to request an issue or to open a new issue;
 * You can also convert a "draft todo" to an issue on the [MVP Tasks Project Board.](https://github.com/users/Caleb-Cohen/projects/1/views/1)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<div align='center'>
-  <img src="docs/images/divider.png">
-</div>
-
-
-<br/>
 <p align="right">(<a href="#top">back to top</a>)</p>

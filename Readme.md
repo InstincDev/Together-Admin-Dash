@@ -19,11 +19,15 @@
 <br>
 <br>
 <h1 align="center">
-  <p>This is a Adminastrative dashboard tool built for the Together group app</p>
+  <p>This is a Administrative dashboard tool built for the Together group app
+  <br>
+  <br>
+  You can refer back to the original project below.
+  </p>
 </h1>
 <h1 align="center">
 
-  <a href="https://together.cyclic.app/">
+  <a href="https://github.com/Caleb-Cohen/Together">
     <img src="docs/images/logo.png" alt="Together logo" width="140">
   </a>
 </h1>
@@ -34,13 +38,8 @@
   what's going on in the 100Devs community!
   <br/>
   <br/>
-  <a href="#">Project Wiki</a>
-  ·
+  
   <a href="https://github.com/InstincDev/Together-Admin-Dash/blob/master/.github/CONTRIBUTING.md">Contributing guide</a>
-  ·
-  <a href="#"><strong>Link to project</strong></a>
-  ·
-  <a href="https://github.com/InstincDev/Together-Admin-Dash/issues">Request an issue</a>
   ·
   <a href="https://discord.com/channels/735923219315425401/1038482732633825442">Contact us!</a>
 </div>
@@ -141,23 +140,18 @@ You can also join the discussion in the [Together Discord channel](https://disco
 
 <div align="center"
   <a href="https://github.com/InstincDev/Together-Admin-Dash/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Caleb-Cohen/Together&max=100"/>
-  </a> 
+  <img src="https://contrib.rocks/image?repo=InstincDev/Together-Admin-Dash" />
+</a>
 </div>
 
 
 <br>
 
-## Help us improve Together!
-
-<em>Together</em> is a community-driven open source project backed by 100devs students. Whether you are helping us fixing bugs, proposing new feature, improving our documentation or spreading the word - <strong>All contributions are welcome.</strong>
-
 <br>
 
 If you're interested in contributing, you may:
-* read our [Contributing guide](.github/CONTRIBUTING.md);
+* read our [Contributing guide](https://github.com/Caleb-Cohen/Together/blob/development/.github/CONTRIBUTING.md) to get started with Together;
 * join our [Discord channel](https://discord.com/channels/735923219315425401/1038482732633825442) within 100Devs to discuss your ideas;
 * Visit the [Issues tab](https://github.com/InstincDev/Together-Admin-Dash/issues) to request an issue or to open a new issue;
-* You can also convert a "draft todo" to an issue on the [MVP Tasks Project Board.](https://github.com/users/Caleb-Cohen/projects/1/views/1)
 
 <p align="right">(<a href="#top">back to top</a>)</p>

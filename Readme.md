@@ -63,9 +63,7 @@
   - [Contributions](#%EF%B8%8F-contributions)
   - [Acknowledgements](#-acknowledgements)
 
-  </details>
-    </td>
-    <td valign="top" style="width:70%"></td>
+
   </tr>
 </table>
 </div>

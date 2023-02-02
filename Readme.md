@@ -19,7 +19,7 @@
 <br>
 <br>
 <h1 align="center">
-  <p>This is a Administrative dashboard tool built for the Together group app
+  <p>This is a Administrative dashboard tool built for the Together group app.
   <br>
   <br>
   You can refer back to the original project below.

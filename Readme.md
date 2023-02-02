@@ -39,7 +39,7 @@
   <br/>
   <br/>
   
-  <a href="https://github.com/InstincDev/Together-Admin-Dash/blob/master/.github/CONTRIBUTING.md">Contributing guide</a>
+  <a href="https://github.com/Caleb-Cohen/Together/blob/development/.github/CONTRIBUTING.md">Contributing guide</a>
   ·
   <a href="https://discord.com/channels/735923219315425401/1038482732633825442">Contact us!</a>
 </div>

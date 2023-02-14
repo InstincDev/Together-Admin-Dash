@@ -1,7 +1,8 @@
 const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
-const Todo = require('./models/Todo');
+const Event = require('./models/Event');
+const User = require('./models/User');
 
 require("dotenv").config({ path: "./config/.env" });
 
@@ -27,11 +28,11 @@ const start = async () => {
 
     // await mongoose.connect("mongodb://127.0.0.1:27017/")
     // await connectDB();
-    console.log(Event);
+    console.log(Event , User);
 
     const adminOptions = {
         // We pass Event to `resources`
-        resources: [Todo],
+        resources: [Event, User],
     }
     // Please note that some plugins don't need you to create AdminJS instance manually,
     // instead you would just pass `adminOptions` into the plugin directly,

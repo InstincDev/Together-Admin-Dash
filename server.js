@@ -33,6 +33,7 @@ const start = async () => {
     const adminOptions = {
         // We pass Event to `resources`
         resources: [Event, User],
+        rootPath: "/",
     }
     // Please note that some plugins don't need you to create AdminJS instance manually,
     // instead you would just pass `adminOptions` into the plugin directly,
@@ -46,5 +47,6 @@ const start = async () => {
         console.log(`AdminJS started on http://localhost:${process.env.PORT}${admin.options.rootPath}`)
     })
 }
+
 
 start();

@@ -4,7 +4,6 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "build": "npm --prefix client run build",
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "concurrently \"npm run dev:mongo\" \"nodemon server.js\"",
